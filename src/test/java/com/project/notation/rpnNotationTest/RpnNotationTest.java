@@ -1,4 +1,4 @@
-/*package com.project.notation.rpnNotationTest;
+package com.project.notation.rpnNotationTest;
 
 import static org.junit.Assert.assertEquals;
 
@@ -39,4 +39,3 @@ public class RpnNotationTest {
 		assertEquals("8", rpnNotation.executeCode("5 3 +"));
 	}
 }
-*/
